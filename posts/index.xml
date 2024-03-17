@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My notes on nvh</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My notes on nvh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 16 Mar 2024 23:17:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 24 Apr 2022 20:29:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>This is my first blog! baseURL = &amp;lsquo;https://example.org/&#39; defaultContentLanguage = &amp;ldquo;zh-cn&amp;rdquo; languageCode = &amp;ldquo;zh-CN&amp;rdquo; hasCJKLanguage = true title = &amp;lsquo;My notes on nvh&amp;rsquo; theme = &amp;ldquo;nostyleplease&amp;rdquo;</description>
+    </item>
+  </channel>
+</rss>
