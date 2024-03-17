@@ -6,14 +6,14 @@
     <description>Recent content on My notes on nvh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 Mar 2024 23:17:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 23:02:38 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Sun, 24 Apr 2022 20:29:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>This is my first blog! baseURL = &amp;lsquo;https://example.org/&#39; defaultContentLanguage = &amp;ldquo;zh-cn&amp;rdquo; languageCode = &amp;ldquo;zh-CN&amp;rdquo; hasCJKLanguage = true title = &amp;lsquo;My notes on nvh&amp;rsquo; theme = &amp;ldquo;nostyleplease&amp;rdquo;</description>
+      <description>this is my first blog.</description>
     </item>
   </channel>
 </rss>
